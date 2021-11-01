@@ -1,5 +1,5 @@
 # Kmeans
-A k-means algorithm implementation from scratch.
+A k-means C++ implementation from scratch.
 
 All implementation is in main.cpp
 
